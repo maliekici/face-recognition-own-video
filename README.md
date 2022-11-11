@@ -1,7 +1,7 @@
 # face-recognition-own-video
 Bu repoyu inceledikten sonra kendi çektiğiniz bir videodaki insanları AI yardımı ile tanımlayabilecek hale geleceksiniz.
 <br/>
-([https://miro.medium.com/max/960/1*l4zssoNgPvrqcDm5Ov-QWA.jpeg](https://miro.medium.com/max/960/1*l4zssoNgPvrqcDm5Ov-QWA.jpeg))
+* (https://miro.medium.com/max/960/1*l4zssoNgPvrqcDm5Ov-QWA.jpeg)
 Kodu düzenlerken ve datayı yaratırken dikkat edilmesi gerekenler:
 * 1-Çektiğiniz video çok hızlı yada bulanık olmasın tahmin etmek istediğiniz yüzler açık bir şekilde belli olsun.
 * 2-Çektiğiniz videodaki insanların kişi başına 1 fotoğrafa ihtiyacınız var bu fotoğrafında bulanık olmaması önemlidir ayrıca fotoğrafın ismininde kişinin ismi olması gekiyor ekranda yazılıcak olan yazı image adını referans almaktadır.
